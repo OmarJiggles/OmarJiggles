@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 My name is Omar Jeghalef. 
 
-🔭 I’m currently working on ...
+🔭 I’m currently working on ... <\n>
 🌱 I’m currently learning C
 
